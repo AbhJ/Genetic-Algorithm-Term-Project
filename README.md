@@ -5,3 +5,4 @@ A.
   TSP using SGA (simple genetic algorithm)
 B.
   TSP using SA (simulated annealing)
+ 
