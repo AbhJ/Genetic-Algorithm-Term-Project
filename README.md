@@ -1,4 +1,7 @@
 # Genetic-Algorithm-Term-Project
-<div id="code-element"></div>
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-<iframe height="400px" width="100%" src="https://replit.com/@AbhJ/python-tsp-simulated-annealing?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+This is a part of my term project under prof. N Chakraborti at IIT Kharagpur.
+It consists of
+A.
+  TSP using SGA (simple genetic algorithm)
+B.
+  TSP using SA (simulated annealing)
